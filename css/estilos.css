@@ -1,6 +1,25 @@
 body
 {
-    color: mediumblue;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+color: darkcyan;
+text-align: center;
+font-family: Arial;
+font-size: 20px;
+margin: 0;
+padding: 0;
+}
+#container
+{
+width: 80%;
+padding: 1em;
+border-bottom: 3px solid #fafa;
+border-right: 10px solid #FFF233;
+border-left: 10px solid #33BEFF;
+border-top: 3px solid #FF8533;
+text-align: center;
+margin: 0 auto;
+}
+#container h1
+{
+    font-size: 35px;
+    color: darkblue;
 }
