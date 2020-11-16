@@ -1,0 +1,23 @@
+[33mcommit 69ca75a7c0f607c8b540e4e7172205454ce659bd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Cristian Mendez <cr_romendez@hotmail.com>
+Date:   Wed Nov 4 00:27:05 2020 -0600
+
+    Realidad vs actitud positiva
+
+[1mdiff --git a/ArticuloCR.txt b/ArticuloCR.txt[m
+[1mindex 436851d..2c0babe 100644[m
+[1m--- a/ArticuloCR.txt[m
+[1m+++ b/ArticuloCR.txt[m
+[36m@@ -1,4 +1,4 @@[m
+[31m-Este es un articulo descriptivo de mi persona, doy a conocer datos [m
+[32m+[m[32m﻿Este es un articulo descriptivo de mi persona, doy a conocer datos[m[41m [m
+ intimos de mi persona.[m
+ [m
+ Para empezar mi nombre es Cristian Mendez y tengo 32 años, naci en El Salvador[m
+[36m@@ -6,4 +6,4 @@[m [men plena guerra civil, sumandole a esto mi pronostico era negativo, pues era[m
+ demasiado prematuro no tenia aún los 9 meses por lo cual a pesar de esa contrariedad[m
+ nací por la gracia de Dios.[m
+ [m
+[31m-Hoy en dia tengon 32 años y sigo viendo los milagros de Dios en mi vida.[m
+\ No newline at end of file[m
+[32m+[m[32mHoy en dia tengon 32 años y aun me mantengo con animos y fuerza ante las adversidades.[m
