@@ -2,7 +2,7 @@ body
 {
 color: darkcyan;
 text-align: center;
-font-family: 'Courier New', Courier, monospace;
+font-family: Arial, Helvetica, sans-serif;
 font-size: 20px;
 margin: 0;
 padding: 0;
@@ -10,7 +10,7 @@ padding: 0;
 #container
 {
 width: 80%;
-padding: 1em;
+padding: 2em;
 border-bottom: 3px solid #fafa;
 border-right: 10px solid #FFF233;
 border-left: 10px solid #33BEFF;
@@ -21,5 +21,26 @@ margin: 0 auto;
 #container h1
 {
     font-size: 35px;
-    color: darkblue;
+    color: red;
+}
+#container span
+{
+    text-align: left;
+    font-size: 15px;
+}
+#cabecera
+{
+    background-color: darkblue;
+    box-shadow: 0px 2px 15px 0px gold;
+    font-weight: bold;
+    margin: 0em;
+    padding: 0.8em;
+    color: ghostwhite;
+    text-align: left;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
