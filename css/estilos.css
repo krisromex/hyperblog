@@ -38,6 +38,14 @@ margin: 0 auto;
     color: ghostwhite;
     text-align: left;
 }
+#footer
+{
+    text-align: right;
+    background-color: darkgrey;
+    color: rgb(255, 255, 255);
+    padding-top: 0.5em;
+    padding-bottom: 0.1em;    
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
