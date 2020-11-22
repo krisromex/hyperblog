@@ -43,6 +43,14 @@ margin: 0 auto;
 {
     width: 40px;
 }
+#footer
+{
+    text-align: center;
+    background-color: darkgrey;
+    color: rgb(255, 255, 255);
+    padding-top: 0.5em;
+    padding-bottom: 0.1em;    
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
